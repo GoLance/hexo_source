@@ -98,4 +98,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'https://github.com/GoLance/golance.github.io.git'
+  brach: 'master'
+  message: '更新于:{{now("YYYY-MM-DD HH:mm:ss")}}'
