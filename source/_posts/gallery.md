@@ -1,5 +1,5 @@
 ---
-title: gallery
+title: Gallery
 date: 2020-02-09 22:45:03
 tags:
 ---
